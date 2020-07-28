@@ -1,6 +1,6 @@
 # AIandMLProject
 
-Colab Notebook Link: https://colab.research.google.com/drive/18h8AJtXdJQdfD_7U-q-mSELxs9_JVP_E?authuser=2
+Colab Notebook Link: https://colab.research.google.com/drive/18h8AJtXdJQdfD_7U-q-mSELxs9_JVP_E?usp=sharing
 
 Dataset Link: https://drive.google.com/drive/folders/1MFFDrZdp_4mWbm4aEqQURNy7T0_8g1lf?usp=sharing
 
